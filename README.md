@@ -345,13 +345,6 @@ Part_2_RFM_Segmentation/
 ├── retention_strategy.md
 ├── manual_review_cases.md
 │
-├── customers.csv
-├── orders.csv
-├── support_tickets.csv
-├── web_events.csv
-├── intervention_history.csv
-├── churn_labels.csv
-├── rfm_snapshot.csv
 │
 ├── outputs/
 │   ├── segments.csv
@@ -480,6 +473,6 @@ This project demonstrates how RFM segmentation combined with behavioural analyti
 
 **Mayank Sharma**
 
-Capstone Project – D2C Customer Churn Intelligence & Retention Analytics
+Capstone Project – D2C Customer Churn Intelligence & Retention Strategy
 
 **Part 2: RFM Segmentation & Retention Strategy**
